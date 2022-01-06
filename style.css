@@ -89,6 +89,15 @@ width: 65%;
   padding: 20px;
 }
 
+.My-Mission-content h3{
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.My-Mission-content p{
+  font-size: 18px;
+  color: rgb(134, 111, 111);
+}
 #illustrators1{
   background-color: rgba(192, 229, 240, 0.322);
 }
